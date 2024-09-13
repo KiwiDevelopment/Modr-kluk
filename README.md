@@ -1,6 +1,6 @@
 # Modrý kluk
 Modrý kluk je open-source hra, kterou si můžete stáhnout [zde](http://kiwi.xf.cz/software/modry-kluk/).  
-V tomto repozitáři je její zdrojový kód, který můžete využívat dle licence [(více info níže)](https://github.com/KiwiDevelopment/Modr-kluk/edit/main/README.md#licence).  
+V tomto repozitáři je její zdrojový kód, který můžete využívat dle licence [(více info níže)](https://github.com/KiwiDevelopment/Modr-kluk/main/README.md#licence).  
 ### Důležité!
  - V adresáři "***res/sound/***" se nachází soubor "***BlueBoyAdventure.7z***" který jsem musel zazipovat kvůli jeho velikosti.  
  - Aby vše fungovalo správně je potřeba jej rozzipovat do "***res/sound/***" jako "***BlueBoyAdventure.wav***"
