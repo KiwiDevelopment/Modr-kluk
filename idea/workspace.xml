@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Modrý kluk:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="741a7ca0-f7e8-4740-a4ac-7a56d8eaeb37" name="Changes" comment="Nahrání kódu.">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Modrý_kluk_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Hra2D_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hra2D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modrý kluk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hra2D_jar/Hra2D.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/AssetSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/CollisionChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/Sound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/main/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/maps/map01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/maps/world01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/object/OBJ_Boots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/object/OBJ_Chest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/object/OBJ_Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/object/OBJ_Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/object/SuperObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/objects/boots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/objects/chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/objects/door.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/objects/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/objects/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/sound/BlueBoyAdventure.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/sound/coin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/sound/fanfare.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/sound/powerup.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/sound/unlock.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tile/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tile/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tiles/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tiles/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tiles/sand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tiles/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tiles/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D/tiles/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_1/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_1/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_3/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_3/main/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_3/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/main/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_4/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/main/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/maps/map01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/tile/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/tile/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/tiles/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/tiles/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_5/tiles/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/main/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/maps/map01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/maps/world01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tile/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tile/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tiles/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tiles/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tiles/sand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tiles/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tiles/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_6/tiles/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/maps/map01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/maps/world01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/objects/boots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/objects/chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/objects/door.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/objects/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/tiles/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/tiles/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/tiles/sand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/tiles/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/tiles/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_7/tiles/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/entity/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/main/AssetSetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/main/CollisionChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/main/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/main/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/maps/map01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/maps/world01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/object/OBJ_Chest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/object/OBJ_Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/object/OBJ_Key.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/object/SuperObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/objects/boots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/objects/chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/objects/door.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/objects/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tile/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tile/TileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tiles/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tiles/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tiles/sand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tiles/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tiles/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_8/tiles/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/maps/map01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/maps/world01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/objects/boots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/objects/chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/objects/door.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/objects/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/player/boy_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/sound/BlueBoyAdventure.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/sound/coin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/sound/powerup.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/sound/unlock.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/tiles/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/tiles/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/tiles/sand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/tiles/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/tiles/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hra2D_9/tiles/water.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2NhdXU1lm5IKlLinKpGpDizaTwO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kiwis/Desktop/Viktor/Program.ing/Java/Hra2D&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.38638455&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_8\res\objects" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_6\res\maps" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_6\res\tiles" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_4\res\player" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adama\Desktop\Viktor\Projekty Java\Hra2D\res\font" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_6\res\tiles" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_5\res\maps" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_5\res\tiles" />
+      <recent name="C:\Users\annas\Documents\kroužky 22-23\JavaHry\Hra2D_4\res\player" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Modrý kluk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="741a7ca0-f7e8-4740-a4ac-7a56d8eaeb37" name="Changes" comment="" />
+      <created>1680120289326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680120289326</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Nahrání kódu.">
+      <option name="closed" value="true" />
+      <created>1726242558228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726242558228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.wav" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nahrání kódu." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nahrání kódu." />
+  </component>
+</project>

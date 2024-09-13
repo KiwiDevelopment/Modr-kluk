@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Modrý kluk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Modrý_kluk_jar</output-path>
+    <root id="archive" name="Modrý kluk.jar">
+      <element id="module-output" name="Modrý kluk" />
+    </root>
+  </artifact>
+</component>
